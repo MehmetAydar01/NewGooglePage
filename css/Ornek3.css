@@ -1,0 +1,148 @@
+/* CSS Kodlarımız */
+#header-nav{
+    text-align: right;
+}
+input.button2{
+    background-color: #2b69b5;
+    border: 1px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: Arial;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: 36px;
+    box-shadow: 2px 2px gray;
+} 
+.ust-kisim{
+    margin-right: 8px;
+    text-decoration: none;
+}
+#button1:hover{
+    box-shadow: 2px 2px 2px #5f6368;
+    border-radius: 6px;
+    padding-top: 4px;
+    border: 1px;
+}
+#button1{
+    margin-top: 2px;
+    color: #5f6368;
+    opacity: 1;
+    vertical-align: middle;
+    margin-right: 8px;
+    border:none;
+    cursor: pointer;    
+}
+.gorsel2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13em;
+}
+.section-kismi{
+    text-align: center;
+}
+.search-kismi{
+    margin-top: 3px;
+    border-radius: 24px;
+    width: 480px;
+    height: 36px;
+    font-size: 16px;
+    padding-left: 20px;
+}
+#Sesli-Arama{
+    vertical-align: middle;
+}
+.search-kismi:hover{
+    box-shadow: 1px 2px 2px 2px  grey;
+}
+.iki-kisim{
+    color: rgb(68, 57, 57);
+    text-decoration: none;
+    text-align: center;
+}
+#button3{
+   background-color: rgb(247, 245, 245);
+   border:none;
+   width: 130px;
+   margin-right: 10px;
+   font-size: 14px;
+   height: 36px;
+   border-radius: 7px;
+   color: #f2f2f2;
+   margin-top: 15px;
+}
+#button4{
+    background-color: rgb(247, 245, 245);
+    border:none;
+    width: 210px;
+    margin-right: 10px;
+    font-size: 14px;
+    height: 36px;
+    border-radius: 7px;
+    color: #f2f2f2;
+    margin-top: 15px;
+}
+.div-kismi{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    display: block;
+    font-family: arial,sans-serif;
+}
+#div-kismi2{
+    padding: 10px 20px;
+    border: 0px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    display: block;
+    font-family: arial,sans-serif;  
+} 
+#Footer-Kismi{
+    background-color: rgb(242, 239, 239);
+    margin-top: 379px;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+} 
+.footer-link{
+    text-decoration: none;
+    color: #70757a;
+    display: block;
+    white-space: nowrap;
+    cursor: pointer;
+    font-size: 14px;
+    height: 14px;
+    font-family: arial,sans-serif;
+    float: left;
+}
+#Reklam,#Isletme,#Arama-Nasil{
+    margin-left: 22px;
+}
+#Karbon-notr{
+    margin-left: 36em;
+}
+.Pb9hCb {
+    height: 14px;
+    margin-right: 2px;
+}
+#Sartlar,#Gizlilik,#Ayarlar{
+    float: flex;
+}
+#Gizlilik{
+    margin-left: 42em;
+    margin-right: 22px;   
+}
+#Ayarlar{
+    margin-left: 22px;
+}
+    
+    
+
+
+  
